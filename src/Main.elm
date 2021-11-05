@@ -163,8 +163,8 @@ dates =
         [ column []
             [ text "Mo, 08/11/2021, 19:00 Uhr"
             , text
-                "Kaiser-Friedrich-Gedächtniskirche"
-            , text "Händelallee 20, Berlin"
+                "Kaiser-Wilhelm-Gedächtniskirche"
+            , text "Breitscheidplatz, 10789 Berlin"
             ]
         , column
             []

@@ -11584,8 +11584,8 @@ var $author$project$Main$dates = A2(
 			_List_fromArray(
 				[
 					$mdgriffith$elm_ui$Element$text('Mo, 08/11/2021, 19:00 Uhr'),
-					$mdgriffith$elm_ui$Element$text('Kaiser-Friedrich-Gedächtniskirche'),
-					$mdgriffith$elm_ui$Element$text('Händelallee 20, Berlin')
+					$mdgriffith$elm_ui$Element$text('Kaiser-Wilhelm-Gedächtniskirche'),
+					$mdgriffith$elm_ui$Element$text('Breitscheidplatz, 10789 Berlin')
 				])),
 			A2(
 			$mdgriffith$elm_ui$Element$column,
